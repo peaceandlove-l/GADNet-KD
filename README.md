@@ -20,11 +20,11 @@ This repository provides the code and results for "Explicit 3D Geometric Modelin
 </p>
 - Proposed Geometry-Text Anchored-Regularized Distillation Network including GBCD and TGAD
 <p align="center">
-  <img src="assets/SGCNet.png" width="800">
+  <img width="1222" height="672" alt="image" src="https://github.com/user-attachments/assets/18b2f6ca-855c-4eb9-b6da-86079745a941" />
 </p>
 - Proposed GADNet-T Framework
 <p align="center">
-  <img src="assets/FATNet.png" width="800">
+  <img width="1202" height="646" alt="image" src="https://github.com/user-attachments/assets/0283a3be-98e1-4e45-b0b0-0220e407d8a7" />
 </p>
 - Proposed GADNet-S Framework
 
