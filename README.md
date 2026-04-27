@@ -32,5 +32,5 @@ This repository provides the code and results for "Explicit 3D Geometric Modelin
 ## Results
 ---- Results compared with some methods on NYUV2 Datasets
 <p align="center">
-  <img src="assets/Results.png" width="800">
+  <img width="1242" height="563" alt="image" src="https://github.com/user-attachments/assets/2edcdacf-f305-4834-b9c1-f4886f65b4f7" />
 </p>
